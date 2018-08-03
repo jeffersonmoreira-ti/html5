@@ -1,0 +1,20 @@
+.nome{
+    color: #f00;
+    font-size: 24;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;    
+}
+
+.segmento{
+    color: #000;
+    font-size: 44;
+    font-family: serif;
+    font-weight: bolder;    
+    text-decoration: underline;
+}
+
+body div div{
+    width: 500px;
+    background-color: yellow;
+}
